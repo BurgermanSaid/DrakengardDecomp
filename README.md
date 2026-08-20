@@ -1,2 +1,2 @@
 # DrakengardDecomp
-Starter repository for my DrakengardDecomp project
+Starter repository for a Drakengard decompilation project. Will hopefully be populated soon.
